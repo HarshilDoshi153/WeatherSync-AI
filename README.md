@@ -4,7 +4,7 @@ This project provides real-time weather data using the [OpenWeather API](https:/
 
 ---
 
-## 🚀 Features and Functionalities
+## 🚀 Features
 
 - 🌐 Fetches **live weather data** (temperature, humidity, wind, pressure) by city name
 - 🔌 Built using **@modelcontextprotocol/sdk**
